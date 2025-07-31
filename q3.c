@@ -1,0 +1,1 @@
+// implement the following function productSmallestPair() accepts an integer sum and an integer array of size n. Implement the function to find the pair of arr   where j != k and j>k such that array j and array k and are the least of  array[j] + arr[z] and return the product of the 
